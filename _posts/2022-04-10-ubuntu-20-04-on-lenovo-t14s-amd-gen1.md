@@ -43,17 +43,17 @@ Before migrate from `Windows` to `Ubuntu`,  you need change some `BIOS` settings
 
 * set “OS Optimized Defaults” to “Disabled”.
 
-![image-20220313115835171](T14sUbuntu.assets/image-20220313115835171.png)
+![image-20220313115835171](../assets/T14sUbuntu.assets/image-20220313115835171.png)
 
 * disable secure boot
 
-  <img src="T14sUbuntu.assets/secure_boot2.jpg" style="zoom:67%;"  alt="secure boot"/>
+  <img src="../assets/T14sUbuntu.assets/secure_boot2.jpg" style="zoom:67%;"  alt="secure boot"/>
 
 * set sleep state to `Linux`( this fix can not wake up issues)
 
   config->power->sleep state
 
-  <img src="T14sUbuntu.assets/lenovo-bios-targus_1024x1024.jpg" style="zoom:67%;" alt=" lenovo bios"/>
+  <img src="../assets/T14sUbuntu.assets/lenovo-bios-targus_1024x1024.jpg" style="zoom:67%;" alt=" lenovo bios"/>
 
 #### Installment
 
@@ -67,7 +67,7 @@ Before migrate from `Windows` to `Ubuntu`,  you need change some `BIOS` settings
 
 The opensource third-party driver for `AMD Ryzen 7 PRO` series chips runs really well on `Thinkpad T14s`, remember check the box on install wizard.
 
-![](T14sUbuntu.assets/2-3.png)
+![2-3](../assets/T14sUbuntu.assets/2-3.png)
 
 **update system**:
 
@@ -152,7 +152,7 @@ Ubuntu default mouse speed is too slow.We need use a config to make it better.
 1. make sure you already installed `gnome-tweak`, `gnome-shell-extensions`
 2. search  `Net speed Simplified ` in the extensions store.
 
-![image-20220410155456298](T14sUbuntu.assets/image-20220410155456298.png)
+![image-20220410155456298](../assets/T14sUbuntu.assets/image-20220410155456298.png)
 
 ### Software recommendation
 

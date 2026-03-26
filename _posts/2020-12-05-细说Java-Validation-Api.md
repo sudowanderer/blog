@@ -312,7 +312,7 @@ D:\maven\repository\org\hibernate\validator\hibernate-validator\6.1.6.Final\hibe
 可以看到，不同语言的文件用下划线和国家isocode区分分别存储
 
 
-![](细说Java-Validation-Api.assets/image-20201111135907742.png)
+![image-20201111135907742](../assets/细说Java-Validation-Api.assets/image-20201111135907742.png)
 
 
 #### 扩展message properties文件
@@ -333,7 +333,7 @@ ipaddress.invalid=ip地址无效
 
 文件结构如下
 
-![](细说Java-Validation-Api.assets/image-20201112100701925.png)
+![image-20201112100701925](../assets/细说Java-Validation-Api.assets/image-20201112100701925.png)
 
 
 

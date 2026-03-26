@@ -9,7 +9,7 @@ tags: Java
 
 平常工作大家都只是知道删除List的元素要用迭代器(iterator)，用foreach判断删除的话会抛异常。但是为什么会抛异常呢？ <!-- more -->来，先看看阿里巴巴Java开发手册中是如何写道的：
 
-![](为什么Java在foreach里面remove-add操作List会抛异常.assets/foreach-remove_add.png)
+![foreach-remove_add](../assets/为什么Java在foreach里面remove-add操作List会抛异常.assets/foreach-remove_add.png)
 
 **删除”1“不会抛异常，但是”2“却会。很神奇是不是**？
 
