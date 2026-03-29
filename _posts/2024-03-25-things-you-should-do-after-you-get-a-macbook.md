@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things you should do after you get a macbook
-tags: macOS
+tags: [macOS]
 date: 2024-03-25 14:35 +0800
 ---
 ## Essential Applications
